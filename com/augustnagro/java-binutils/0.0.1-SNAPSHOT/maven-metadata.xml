@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>java-binutils</groupId>
+  <groupId>com.augustnagro</groupId>
   <artifactId>java-binutils</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160830.025638</timestamp>
+      <timestamp>20160830.033943</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160830025638</lastUpdated>
+    <lastUpdated>20160830033943</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20160830.025638-1</value>
-        <updated>20160830025638</updated>
+        <value>0.0.1-20160830.033943-1</value>
+        <updated>20160830033943</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20160830.025638-1</value>
-        <updated>20160830025638</updated>
+        <value>0.0.1-20160830.033943-1</value>
+        <updated>20160830033943</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

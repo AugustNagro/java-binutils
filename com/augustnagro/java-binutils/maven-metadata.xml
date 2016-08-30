@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>java-binutils</groupId>
+  <groupId>com.augustnagro</groupId>
   <artifactId>java-binutils</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160830025638</lastUpdated>
+    <lastUpdated>20160830033943</lastUpdated>
   </versioning>
 </metadata>
